@@ -67,6 +67,7 @@
 - [Postman](https://www.postman.com/) - Test your APIs without a frontend
 
 </details>
+<br>
 
 [TOP](#asynchronous-programming)
 
@@ -86,6 +87,7 @@ References and Practice to help you master this module.
 
 <details>
 <summary>expand/collapse</summary>
+<br>
 
 > https://study.hackyourfuture.be/node-js
 
@@ -112,7 +114,7 @@ References and Practice to help you master this module.
   - [promisifying-fs](https://github.com/hackyourfuturebelgium/promisifying-fs)
 - **CLIs**
   - [cowsaydex](https://github.com/hackyourfuturebelgium/cowsaydex)
-  - Practice integrating NPM Packages into your projects, starting with [cowsay](https://github.com/piuccio/cowsay)
+    - Practice using NPM Packages into your projects, starting with [cowsay](https://github.com/piuccio/cowsay)
   - [node-practice-replace](https://github.com/HackYourFutureBelgium/node-practice-replace)
 - **API Calls**
   - [node-fetch](https://www.npmjs.com/package/node-fetch): a module for using `fetch` syntax in Node.js
@@ -186,6 +188,7 @@ __From Terminal__
   - take a search through Oliver's repositories, worth it
 
 </details>
+<br>
 
 [TOP](#asynchronous-programming)
 
@@ -312,6 +315,7 @@ You will be expected to turn in your code from his tutorial on a new repository 
 ```
 
 </details>
+<br>
 
 [TOP](#asynchronous-programming)
 
@@ -342,6 +346,10 @@ APIs & Client/Server web apps
 
 #### Before Break
 
+- [Express Static Serving](./examples-and-exercises/07-express-static-serving)
+- [Express Dynamic Serving](./examples-and-exercises/08-express-dynamice-serving)
+- [Params, Queries, Body](./examples-and-exercises/09-params-queries-body)
+
 #### After break
 
 - [textidor](./practice-projects/2-textidor)
@@ -368,6 +376,7 @@ This week's project is to complete the code in [the `diy-wiki` repository](https
 ```
 
 </details>
+<br>
 
 [TOP](#asynchronous-programming)
 
@@ -390,6 +399,26 @@ This week's project is to complete the code in [the `diy-wiki` repository](https
 - [slides](./slides/3-prep.html)
 - videos: [Part 1](https://vimeo.com/417960548), [Part 2](https://vimeo.com/418360319), [Part 3](https://vimeo.com/418359614)
 
+### HTTP Statuses
+
+- [In 60 Seconds](https://www.youtube.com/watch?v=GrNrcmD6HLA)
+- [httpstatuses.com](https://httpstatuses.com/)
+- [wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [http.cat](https://http.cat/)
+
+### Express Router
+
+- [Scotch.io](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+- [Hungry Turtle](https://www.youtube.com/watch?v=paNikhYqdz0)
+- [Rithm School](https://www.youtube.com/watch?v=Lxp7147emnM)
+- [The Docs](https://expressjs.com/en/guide/routing.html)
+
+### Express Error Handling
+
+- [The Net Ninja](https://www.youtube.com/watch?v=w1V2SdzdQBs)
+- [Andrew Mead](https://www.youtube.com/watch?v=R4uiu3fR38I)
+- [Devnami](https://www.youtube.com/watch?v=pYj48mDXHBU)
+
 ### Lesson Plan
 
 > during class
@@ -399,6 +428,9 @@ This week's project is to complete the code in [the `diy-wiki` repository](https
 #### Before Break
 
 Practice refactoring small Express apps from single-file servers into multiple files using `express.Router()`.
+
+- [10-refactoring-apis](./examples-and-exercises/10-refactoring-apis)
+- [11-middleware-and-error-handling](./examples-and-exercises/11-middleware-and-error-handling)
 
 #### After break
 
@@ -432,6 +464,7 @@ Besides refactoring the backend into multiple files, you are also expected to de
 ```
 
 </details>
+<br>
 
 [TOP](#asynchronous-programming)
 
@@ -454,6 +487,17 @@ Besides refactoring the backend into multiple files, you are also expected to de
 - videos: [Part 1](https://vimeo.com/420678014), [Part 2](https://vimeo.com/422487341)
 - [input validation example](./isolate/input-validation-example-from-video)
 
+### JSON Schemas?
+
+- [The Docs](https://json-schema.org/learn/getting-started-step-by-step.html)
+- [a video](https://www.youtube.com/watch?v=tp4IzG6oDA0)
+
+### JSON Schema Validation
+
+- [jsonschemavalidator.net](https://www.jsonschemavalidator.net/) (used in the prep videos)
+- [tv4 validation library](https://github.com/geraintluff/tv4) (prep video and your projects)
+
+
 ### Lesson Plan
 
 > during class
@@ -463,6 +507,8 @@ Besides refactoring the backend into multiple files, you are also expected to de
 #### Before Break
 
 Practice using JSON Schemas & `tv4` to protect data saved in a .json file.
+
+- [12-data-validation](./examples-and-exercises/12-data-validation) []
 
 #### After break
 
@@ -501,6 +547,7 @@ Here are some tips to help you find your way:
 ```
 
 </details>
+<br>
 
 [TOP](#asynchronous-programming)
 
@@ -515,10 +562,9 @@ Here are some tips to help you find your way:
   - Give your name
   - and a helpful description
 
-<details open>
-<summary>expand/collapse</summary>
-
-### Class 7 & 8
+<details>
+<summary><strong>Class 7-8</strong></summary>
+<br>
 
 > [Shaun](https://github.com/badgerbadgerbadgerbadger), [Evan](https://github.com/colevanderswands/)
 
@@ -540,3 +586,20 @@ Here are some tips to help you find your way:
    - [Part 3](https://vimeo.com/422149853)
 
 </details>
+
+---
+
+
+<details>
+<summary><strong>Class 9-10</strong></summary>
+<br>
+
+> [Shaun](https://github.com/badgerbadgerbadgerbadger)
+
+1. Week 1
+   1. [Node.js 101 & Client/Server](https://vimeo.com/469893530)
+   2. [CLI Input with `process.argv`](https://vimeo.com/469895085)
+   3. [`assert` & `fs` part 1](https://vimeo.com/469895326)
+   4. [`fs` part 2](https://vimeo.com/469895748)
+   5. [Entries Manager part 1](https://vimeo.com/469896412)
+   6. [Entries Manager part 2 & Project Intro](https://vimeo.com/469897191)
